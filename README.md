@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Senior Software Engineer at Oracle Cloud
+- 🌱 I’m currently learning about Cloud Infrastructure and Security
+- 👯 I’m looking to collaborate on anything DATA
+- 📫 How to reach me: @srinivaskcg on LinkedIn
+
 <!--
 **srinivaskcg/srinivaskcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
