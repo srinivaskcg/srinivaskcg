@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Senior Software Engineer at Oracle Cloud
-- 🌱 I’m currently learning about Cloud Infrastructure and Security
+- 🌱 I’m currently learning about Cloud Infrastructure and Privacy
 - 👯 I’m looking to collaborate on anything DATA
 - 📫 How to reach me: @srinivaskcg on LinkedIn
 
